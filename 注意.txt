@@ -14,7 +14,7 @@ v-bind 简写:xxx
 动态绑定指令，默认情况下标签自带属性的值是固定的，在为了能够动态的给这些属性添加值，可以使用v-bind:你要动态变化的值="表达式"
 
 computed: HTML DOM加载后马上执行的，绑定到dom 如:class赋值
-created: dom加载前，如ajax获取页面数据，初始化插件
+created: dom加载前，如ajax获取页面数据，初始化插件 
 
 
 
